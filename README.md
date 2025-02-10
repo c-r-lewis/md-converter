@@ -38,6 +38,7 @@ The application follows a modular architecture, separating the GUI components fr
 2. **Install Dependencies**:
    ```bash
    pip install pypandoc
+   pip install tk
    ```
 
 3. **Run the Application**:
