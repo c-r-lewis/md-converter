@@ -1,0 +1,6 @@
+venv
+# Ignore created files
+*.docx
+*.odt
+# Ignore lock files created by LibreOffice
+.*~
