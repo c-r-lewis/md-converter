@@ -1,4 +1,4 @@
-venv
+venv/
 # Ignore created files
 *.docx
 *.odt
